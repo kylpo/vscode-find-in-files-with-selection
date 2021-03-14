@@ -1,12 +1,15 @@
 # VSCode Extension: Find in Files With Selection
 
+[![Version](https://vsmarketplacebadge.apphb.com/version-short/kylpo.vscode-find-in-files-with-selection.svg)](https://marketplace.visualstudio.com/items?itemName=kylpo.vscode-find-in-files-with-selection)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs-short/kylpo.vscode-find-in-files-with-selection.svg)](https://marketplace.visualstudio.com/items?itemName=kylpo.vscode-find-in-files-with-selection)
+
 Like `Find With Selection`, but for `Find in Files`.
 
 ## Features
 
 Use this extension to find your selected text (or current word if there is nothing selected) in your workspace.
 
-![Command Palette with "Find in Files With Selection" command highlighted](assets/Command-Palette.jpg)
+![Command Palette with "Find in Files With Selection" command highlighted](https://github.com/kylpo/vscode-find-in-files-with-selection/blob/main/assets/Command-Palette.jpg)
 
 ## Settings
 
