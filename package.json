@@ -4,6 +4,7 @@
   "description": "Use this to find your selected text (or current word if there is nothing selected) in your workspace.",
   "publisher": "kylpo",
   "version": "1.0.0",
+  "license": "(MIT OR Apache-2.0)",
   "engines": {
     "vscode": "^1.54.0"
   },
