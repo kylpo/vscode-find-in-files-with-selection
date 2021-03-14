@@ -1,9 +1,9 @@
 {
   "name": "vscode-find-in-files-with-selection",
-  "displayName": "FindInFilesWithSelection",
+  "displayName": "Search: Find In Files With Selection",
   "description": "Use this to find your selected text (or current word if there is nothing selected) in your workspace.",
   "publisher": "kylpo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "(MIT OR Apache-2.0)",
   "repository": "github:kylpo/vscode-find-in-files-with-selection",
   "engines": {

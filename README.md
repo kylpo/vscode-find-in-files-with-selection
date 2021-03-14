@@ -1,10 +1,12 @@
-# find-in-files-with-selection
+# VSCode Extension: Find in Files With Selection
 
 Like `Find With Selection`, but for `Find in Files`.
 
 ## Features
 
 Use this extension to find your selected text (or current word if there is nothing selected) in your workspace.
+
+![Command Palette with "Find in Files With Selection" command highlighted](assets/Command-Palette.jpg)
 
 ## Settings
 
