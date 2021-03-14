@@ -1,10 +1,10 @@
 # find-in-files-with-selection
 
-Like `Find With Selection`, but for "Find in Files". Use this to find your selected text (or current word if there is nothing selected) in your workspace.
+Like `Find With Selection`, but for `Find in Files`.
 
 ## Features
 
-Coming soon
+Use this extension to find your selected text (or current word if there is nothing selected) in your workspace.
 
 ## Settings
 
@@ -20,7 +20,7 @@ Open your [keybindings.json](https://code.visualstudio.com/docs/getstarted/keybi
 
 ## Known Issues
 
-Calling out known issues can help limit users opening duplicate issues against your extension.
+None
 
 ## Release Notes
 
