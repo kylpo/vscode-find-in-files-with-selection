@@ -9,7 +9,7 @@ Like `Find With Selection`, but for `Find in Files`.
 
 Use this extension to find your selected text (or current word if there is nothing selected) in your workspace.
 
-![Command Palette with "Find in Files With Selection" command highlighted](https://github.com/kylpo/vscode-find-in-files-with-selection/blob/main/assets/Command-Palette.jpg)
+![Command Palette with "Find in Files With Selection" command highlighted](https://raw.githubusercontent.com/kylpo/vscode-find-in-files-with-selection/main/assets/Command-Palette.jpg)
 
 ## Settings
 

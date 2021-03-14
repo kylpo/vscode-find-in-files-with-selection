@@ -32,7 +32,8 @@
     "lint": "eslint src --ext ts",
     "test": "node ./out/test/runTest.js",
     "package": "vsce package",
-    "publish": "vsce publish"
+    "publish": "vsce publish patch",
+    "publish:current": "vsce publish"
   },
   "devDependencies": {
     "@types/glob": "^7.1.3",
