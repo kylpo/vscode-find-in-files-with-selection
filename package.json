@@ -5,7 +5,7 @@
   "publisher": "kylpo",
   "version": "1.0.3",
   "license": "(MIT OR Apache-2.0)",
-  "repository": "github:kylpo/vscode-find-in-files-with-selection",
+  "repository": "https://github.com/kylpo/vscode-find-in-files-with-selection",
   "engines": {
     "vscode": "^1.54.0"
   },
